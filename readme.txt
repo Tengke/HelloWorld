@@ -1,2 +1,2 @@
-this is readme help file
+This is readme help file.
 Git is free open source software.
